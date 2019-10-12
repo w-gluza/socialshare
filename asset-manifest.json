@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/socialshare/static/css/main.b698738e.chunk.css",
-    "main.js": "/socialshare/static/js/main.ae034516.chunk.js",
-    "main.js.map": "/socialshare/static/js/main.ae034516.chunk.js.map",
+    "main.js": "/socialshare/static/js/main.ae3a284a.chunk.js",
+    "main.js.map": "/socialshare/static/js/main.ae3a284a.chunk.js.map",
     "runtime-main.js": "/socialshare/static/js/runtime-main.896ac25c.js",
     "runtime-main.js.map": "/socialshare/static/js/runtime-main.896ac25c.js.map",
-    "static/js/2.2a558ef2.chunk.js": "/socialshare/static/js/2.2a558ef2.chunk.js",
-    "static/js/2.2a558ef2.chunk.js.map": "/socialshare/static/js/2.2a558ef2.chunk.js.map",
+    "static/js/2.1e5ffa59.chunk.js": "/socialshare/static/js/2.1e5ffa59.chunk.js",
+    "static/js/2.1e5ffa59.chunk.js.map": "/socialshare/static/js/2.1e5ffa59.chunk.js.map",
     "index.html": "/socialshare/index.html",
-    "precache-manifest.7affef44d69533009d38e5706ff521e1.js": "/socialshare/precache-manifest.7affef44d69533009d38e5706ff521e1.js",
+    "precache-manifest.d4e5170001376839f2e0aa708e6cdff0.js": "/socialshare/precache-manifest.d4e5170001376839f2e0aa708e6cdff0.js",
     "service-worker.js": "/socialshare/service-worker.js",
     "static/css/main.b698738e.chunk.css.map": "/socialshare/static/css/main.b698738e.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.896ac25c.js",
-    "static/js/2.2a558ef2.chunk.js",
+    "static/js/2.1e5ffa59.chunk.js",
     "static/css/main.b698738e.chunk.css",
-    "static/js/main.ae034516.chunk.js"
+    "static/js/main.ae3a284a.chunk.js"
   ]
 }
